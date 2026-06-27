@@ -218,7 +218,7 @@ A modern **full-stack church management platform** designed to streamline church
 
 ### 🔗 Links
 
-🌐 **Live Demo:** *(Add URL)*
+🌐 **Live Demo:** *(https://new-life-church-of-god.vercel.app/)*
 
 💻 **Source Code:** *(Private Repository)*
 
@@ -248,9 +248,9 @@ An **AI-powered Resume Compatibility Analyzer** that evaluates resumes against j
 
 ### 🔗 Links
 
-🌐 **Live Demo:** *(Add URL)*
+🌐 **Live Demo:** *(https://hirelen-ai.vercel.app/)*
 
-💻 **GitHub:** *(Add URL)*
+💻 **GitHub:** *(https://github.com/SARELLA-VENKAT/Hirelens-Ai-)*
 
 </td>
 
@@ -283,7 +283,8 @@ A community-driven platform connecting **Donors, NGOs, and Volunteers** for effi
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
 
-🔗 **Live Demo:** *(Add URL)*
+🔗 **Live Demo:** *(https://needfeeder.vercel.app/)*
+💻 **GitHub:** *(https://github.com/SARELLA-VENKAT/NEEDFEEDER)*
 
 ---
 
