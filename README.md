@@ -1,18 +1,161 @@
-💫 About Me:
-<h2>Hi 👋, I'm Sarella Venkat</h2><br><br><p><br>Full-Stack Developer and AI/ML student from  Hyderabad , India.<br>I build modern, responsive, and scalable web applications using React, TypeScript, Supabase, and AI technologies. I enjoy creating products that combine clean UI, solid backend architecture, and practical AI features.<br></p><br>## 👨‍💻 About Me<br><br>🔭 I'm currently working on \*\*Full-Stack AI applications, modern React platforms, and intelligent web experiences\*\*<br><br>🤝 I'm looking to collaborate on \*\*Open Source, SaaS products, AI-powered applications, and high-quality frontend projects\*\*<br><br>🛠️ I'm looking for help with \*\*System Design, DevOps, scalable backend architecture, and advanced AI workflows\*\*<br><br>🌱 I'm currently learning \*\*Node.js, Express.js, PostgreSQL, System Design, Three.js, GSAP, and advanced LLM integration\*\*<br><br>💬 Ask me about \*\*React, TypeScript, Tailwind CSS, Supabase, PostgreSQL, AI Integration, Prompt Engineering, and Full-Stack Development\*\*<br><br>⚡ Fun fact: \*\*I enjoy turning ideas into production-ready products—from UI design to deployment—and I'm always experimenting with modern web technologies.\*\*
+\#
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Sarella Venkat
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+Full-Stack Developer • AI/ML Student • React • TypeScript • Supabase
+```{=html}
+</h3>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI-Powered+Web+Applications;React+%7C+TypeScript+%7C+Supabase;Always+Learning+New+Technologies" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=SARELLA-VENKAT&label=Profile%20Views&color=0e75b6&style=flat"/>`{=html}
+```{=html}
+</p>
+```
 
-🌐 Socials:
-![Facebook](https://facebook.com/https://www.facebook.com/share/1HAXdb74Bf/) ![Instagram](https://instagram.com/ly_v__) ![LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/venkat-sarella-01b645333/) ![Pinterest](https://pinterest.com/https://in.pinterest.com/venkatsarella12/_pins/) ![X](https://x.com/@venkat06203525) ![email](mailto:venkatsarella12@gmail.com)
-💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SARELLA-VENKAT&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SARELLA-VENKAT&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SARELLA-VENKAT&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SARELLA-VENKAT&limit=5&theme=rose&combine_all_yearly_contributions=true)
----
-![](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+------------------------------------------------------------------------
+
+# 💫 About Me
+
+-   🔭 Building **AI-powered Full-Stack Applications**
+-   🌱 Learning **Node.js, Express.js, PostgreSQL, Three.js, GSAP &
+    System Design**
+-   👨‍💻 Passionate about building responsive, scalable products
+-   💬 Ask me about **React, TypeScript, Tailwind CSS, Supabase & AI
+    Integration**
+-   ⚡ I enjoy transforming ideas into production-ready products.
+
+------------------------------------------------------------------------
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkat-sarella-01b645333)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ly_v__)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/share/1HAXdb74Bf/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/venkatsarella12/)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/venkat06203525)
+
+------------------------------------------------------------------------
+
+# 💻 Tech Stack
+
+## 🚀 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind
+CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer
+Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
+
+## ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST
+API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+## 🗄️ Database
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 🤖 AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt
+Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge)
+![LLM
+Integration](https://img.shields.io/badge/LLM_Integration-FF6F61?style=for-the-badge)
+
+## 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS
+Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+------------------------------------------------------------------------
+
+# 🚀 Featured Projects
+
+### ✨ New Life Church Platform
+
+Full-stack church management platform with role-based authentication,
+musician portal, and admin dashboard.
+
+### 🤖 HireLens AI
+
+AI-powered resume compatibility analyzer using LLM integration.
+
+### ❤️ NeedFeeder
+
+Smart donation and volunteer management platform.
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SARELLA-VENKAT&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=SARELLA-VENKAT&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SARELLA-VENKAT&layout=compact&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=SARELLA-VENKAT&theme=tokyonight&no-frame=true)
+
+------------------------------------------------------------------------
+
+# 📈 Contribution Graph
+
+[![Activity
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=SARELLA-VENKAT&theme=tokyo-night)](https://github.com/SARELLA-VENKAT)
+
+------------------------------------------------------------------------
+
+# 🐍 Contribution Snake
+
+![Snake
+animation](https://github.com/SARELLA-VENKAT/SARELLA-VENKAT/blob/output/github-contribution-grid-snake-dark.svg)
+
+------------------------------------------------------------------------
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+⭐️ From **Sarella Venkat**
