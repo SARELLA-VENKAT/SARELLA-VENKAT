@@ -178,3 +178,211 @@ Currently Learning:
 ## 💜 "Code with Purpose. Build with Passion."
 
 </div>
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+*"Building products that solve real-world problems with modern technologies."*
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%">
+
+## ⛪ New Life Church Platform
+
+A modern **full-stack church management platform** designed to streamline church operations and enhance community engagement.
+
+### ✨ Features
+- 👥 Role-Based Authentication
+- 🎵 Musician Worship Portal
+- 📅 Event Management
+- 📖 Daily Bible & Promise Cards
+- 🙏 Prayer Request System
+- ⚙️ Admin Dashboard
+- 🔐 Google OAuth Authentication
+- 📱 Fully Responsive Design
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+### 🔗 Links
+
+🌐 **Live Demo:** *(Add URL)*
+
+💻 **Source Code:** *(Private Repository)*
+
+</td>
+
+<td width="50%">
+
+## 🤖 HireLens AI
+
+An **AI-powered Resume Compatibility Analyzer** that evaluates resumes against job descriptions using LLMs.
+
+### ✨ Features
+
+- 📄 Resume Parsing
+- 🤖 AI Compatibility Score
+- 🎯 Skill Gap Detection
+- 📊 Smart Suggestions
+- ⚡ Instant Analysis
+- 📱 Responsive UI
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss)
+
+### 🔗 Links
+
+🌐 **Live Demo:** *(Add URL)*
+
+💻 **GitHub:** *(Add URL)*
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ❤️ NeedFeeder
+
+</div>
+
+A community-driven platform connecting **Donors, NGOs, and Volunteers** for efficient resource distribution.
+
+### 🌟 Features
+
+- 📍 Location-Based Donations
+- 🤝 Volunteer Coordination
+- 📦 Donation Tracking
+- 🏢 NGO Management
+- 📊 Dashboard
+- 📱 Mobile Responsive
+
+### 🛠 Built With
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
+
+🔗 **Live Demo:** *(Add URL)*
+
+---
+
+<div align="center">
+
+# 💼 Professional Experience
+
+</div>
+
+## 🚀 Freelance Full-Stack Developer
+
+📍 Remote | Jun 2024 – Present
+
+Developing modern web applications, AI-powered solutions, and scalable full-stack systems for clients.
+
+### Responsibilities
+
+- ⚡ Build scalable React applications
+- 🤖 Integrate AI APIs & LLM workflows
+- 🔐 Implement Authentication & Authorization
+- 🗄 Design PostgreSQL Databases
+- ☁ Deploy Production Applications
+- 🎨 Develop Responsive User Interfaces
+
+---
+
+## 🏭 Quality Apprentice
+
+**Rockwell Industries**
+
+📍 Hyderabad
+
+**Oct 2023 – Apr 2024**
+
+Worked on industrial quality assurance, testing, validation, and process documentation.
+
+---
+
+<div align="center">
+
+# 🏅 Certifications
+
+</div>
+
+🏆 IBM — Data Analysis with Python
+
+🏆 Coursera — Python for Data Analysis
+
+🏆 Outskill — Generative AI Mastermind
+
+🏆 be10x — AI Tools Workshop
+
+---
+
+<div align="center">
+
+# 📚 Currently Learning
+
+</div>
+
+```text
+Frontend
+██████████████░░░ 90%
+
+Backend
+███████████░░░░░ 75%
+
+System Design
+████████░░░░░░░ 55%
+
+Three.js
+█████████░░░░░░ 60%
+
+GSAP
+████████░░░░░░░ 55%
+
+LLM Engineering
+███████████░░░░ 75%
+```
+
+---
+
+<div align="center">
+
+## 🎯 2026 Goals
+
+</div>
+
+- 🚀 Build Production-Ready AI SaaS Products
+- 🌍 Contribute to Open Source
+- 💼 Land a Full-Stack / AI Developer Role
+- 📈 Reach 1000+ GitHub Contributions
+- ⭐ Build Award-Winning Web Experiences
+- 🤖 Master LLM Engineering & AI Integration
+
+---
+
+<div align="center">
+
+> *"Every great product begins with a simple idea and relentless execution."*
+
+</div>
