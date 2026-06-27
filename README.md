@@ -386,3 +386,179 @@ LLM Engineering
 > *"Every great product begins with a simple idea and relentless execution."*
 
 </div>
+---
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SARELLA-VENKAT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARELLA-VENKAT&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SARELLA-VENKAT&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Activity
+
+</div>
+
+<p align="center">
+
+<a href="https://github.com/SARELLA-VENKAT">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SARELLA-VENKAT&theme=tokyo-night&hide_border=true"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=SARELLA-VENKAT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ Development Metrics
+
+</div>
+
+| Metric | Status |
+|----------|--------|
+| 🚀 Full Stack Development | ████████████████ 100% |
+| 🎨 Frontend Development | ███████████████░ 95% |
+| ⚙ Backend Development | ████████████░░░░ 80% |
+| 🤖 AI Integration | █████████████░░░ 85% |
+| 🗄 Database Design | ████████████░░░░ 80% |
+| 📱 Responsive Design | ███████████████░ 95% |
+| ☁ Cloud Deployment | ███████████░░░░░ 75% |
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/SARELLA-VENKAT/SARELLA-VENKAT/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** This animation requires a GitHub Action to generate automatically. It won't appear until you configure it.
+
+---
+
+<div align="center">
+
+# 🛠 Development Philosophy
+
+</div>
+
+```text
+while (alive) {
+
+    Learn();
+
+    Build();
+
+    Break();
+
+    Improve();
+
+    Repeat();
+
+}
+```
+
+---
+
+<div align="center">
+
+# 🌟 What Drives Me
+
+</div>
+
+✨ Building meaningful software instead of just writing code.
+
+🤖 Creating AI-powered experiences that solve real-world problems.
+
+🚀 Turning ideas into scalable digital products.
+
+💡 Learning continuously and sharing knowledge with the developer community.
+
+🌍 Contributing to projects that make a positive impact.
+
+---
+
+<div align="center">
+
+# 🤝 Let's Connect
+
+</div>
+
+If you're working on
+
+✔ AI Products
+
+✔ SaaS Platforms
+
+✔ React Applications
+
+✔ Full Stack Projects
+
+✔ Open Source
+
+I'd love to collaborate.
+
+<p align="center">
+
+<a href="mailto:venkatsarella12@gmail.com">
+<img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/venkat-sarella-01b645333/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+# ☕ Support My Work
+
+If you enjoy my projects, consider giving them a ⭐ on GitHub.
+
+It motivates me to keep building amazing things.
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=SARELLA-VENKAT&style=for-the-badge&color=8B5CF6"/>
+
+<br>
+
+### ⭐ Thanks for visiting my profile!
+
+### 🚀 Engineering AI-Powered Products That Solve Real Problems.
+
+</div>
