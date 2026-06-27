@@ -429,7 +429,7 @@ LLM Engineering
 
 # 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=SARELLA-VENKAT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SARELLA-VENKAT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
 
 </div>
 
